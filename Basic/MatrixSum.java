@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class MatrixSum
+class MatrixAdd
 {
 	public static void main(String[] args)
 	{
