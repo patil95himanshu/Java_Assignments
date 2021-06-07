@@ -38,7 +38,7 @@ public class EncapsEmployee
     public static void main(String args[])
 	{
          EncapsulationDemo obj = new EncapsulationDemo();
-         obj.setEmpName("Pooja");
+         obj.setEmpName("Himanshu");
          obj.setEmpSalary(70000);
          obj.setEmpID(18);
          System.out.println("Employee Name: " + obj.getEmpName());
